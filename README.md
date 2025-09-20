@@ -43,31 +43,19 @@ flowchart TD
 
 <img width="944" height="746" alt="Screenshot 2025-09-20 140514" src="https://github.com/user-attachments/assets/5075b4de-599d-4a93-a762-336d61778fd0" />
 
-<img width="1920" height="1080" alt="Screenshot 2025-09-20 140545" src="https://github.com/user-attachments/assets/0dc4a16d-6087-418a-bcc1-a793ec08c70e" />
+<img width="1095" height="720" alt="Screenshot 2025-09-20 at 8 39 08 PM" src="https://github.com/user-attachments/assets/240c36e7-18fd-413f-b224-d6935150d39d" />
 
+<img width="1556" height="795" alt="Screenshot 2025-09-20 at 8 39 27 PM" src="https://github.com/user-attachments/assets/28db7c36-e0da-4949-b745-f27eb82d54ec" />
 
-<img width="1920" height="1080" alt="Screenshot 2025-09-20 140604" src="https://github.com/user-attachments/assets/df722e77-4be8-4eec-aea2-13ff8c821bb8" />
+<img width="1548" height="757" alt="Screenshot 2025-09-20 at 8 39 51 PM" src="https://github.com/user-attachments/assets/fa621355-b56a-4041-8f7c-78c6cce13cab" />
 
-<img width="1920" height="1080" alt="Screenshot 2025-09-20 140807" src="https://github.com/user-attachments/assets/713dfb4b-0f34-4f81-8d39-b9a4c539f2a5" />
+<img width="1115" height="567" alt="Screenshot 2025-09-20 at 8 40 15 PM" src="https://github.com/user-attachments/assets/fecc8ee2-71ed-4661-986c-eb834209365c" />
 
+<img width="871" height="551" alt="Screenshot 2025-09-20 at 8 41 03 PM" src="https://github.com/user-attachments/assets/5d7de799-8fe0-436e-ad46-0e99e0ae42cc" />
 
-<img width="1920" height="1080" alt="Screenshot 2025-09-20 141708" src="https://github.com/user-attachments/assets/073e3188-196a-49b3-bf09-1e31851b23ab" />
+<img width="1511" height="617" alt="Screenshot 2025-09-20 at 8 41 20 PM" src="https://github.com/user-attachments/assets/b6315efc-ed62-4d93-b507-1968f697f61f" />
 
-
-
-<img width="1920" height="1080" alt="Screenshot 2025-09-20 142224" src="https://github.com/user-attachments/assets/3730692c-d571-4c1c-ba2f-9b456d6d7072" />
-
-<img width="1920" height="1080" alt="Screenshot 2025-09-20 142307" src="https://github.com/user-attachments/assets/06253722-6c7e-488a-a089-e61836836fa1" />
-
-
-
-<img width="1920" height="1080" alt="Screenshot 2025-09-20 142336" src="https://github.com/user-attachments/assets/606a8fc7-ae5c-4493-afa9-38e2254797ac" />
-
-<img width="1920" height="1080" alt="Screenshot 2025-09-20 142526" src="https://github.com/user-attachments/assets/4f34846d-3131-47b0-9bb0-371a385cf136" />
-
-<img width="1920" height="1080" alt="Screenshot 2025-09-20 143418" src="https://github.com/user-attachments/assets/7bab635b-135d-4f5d-a106-5a2d8bd15a1d" />
-
-
+<img width="716" height="712" alt="Screenshot 2025-09-20 at 8 41 36 PM" src="https://github.com/user-attachments/assets/b01ba811-571b-4146-892c-f4b48e2d37c7" />
 
 ## OUTPUT:
 Unallocated Space Analysis and Extracted Data Report
